@@ -38,17 +38,17 @@ LangChain Chat with Your Data, LangChain for LLM Application Development, Vector
 ● Generative AI with Large Language Models, Deeplearning.ai and AWS (2023)
 
 A 4-week theoretical and practical course about best practices on LLMs pipelines, fine-tuning techniques, prompt engineering, and many more.
-
+\n
 
 ● Large Language Models: Application through Production, Databricks (2023)
 
 A 6-week practical-oriented course on LLMs pipelines, LangChain, fine-tuning, and prompt-engineering.
-
+\n
 
 ● Tripleten — Data Science Professional Training (2021)
 
 A 9-month intensive boot camp (20h/week) that spans from SQL, API calls, data mining, and cleaning to deep learning with TensorFlow. Trained on 15+ educational real-life projects regarding tabular data, time-series forecasting, and natural language processing.
-
+\n
 
 ● Practicum in mathematics and Python, online learning course (2015)
 
@@ -84,8 +84,11 @@ The best technical university in Ukraine.
 
 ## Languages
 ● English (Fluent)
+
 ● German (B1-B2) 
+
 ● Ukrainian (native)
+
 ● Russian (native)
 
 ## Awards
@@ -94,6 +97,7 @@ The best technical university in Ukraine.
 
 ## Research scholarships:
 ● Dual degree program between Ukraine and South Korea 2016 -2017.
+
 ● Ph.D. Scholarship 2017 at the TU Berlin
 
 ## Hobby
