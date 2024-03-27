@@ -11,7 +11,8 @@ I am a responsible and passionate Data Scientist and a Ph.D. candidate in nanoel
 2.	Development and support of customized apps for client and internal needs in our platform.
 3.	Application of LLMs for documentation Q&A using the RAG approach (Transformers, HuggingFace, LangChain, etc.). Company LLM hackathon winner (Aug 2023).
 
-● Technical University of Berlin — Research Scientist, Ph.D. candidate (2017 – 2022).
+● Technical University of Berlin — Research Scientist, Ph.D. candidate (2017 – 2022)
+
 TU Berlin is ranked as the 4th best technical university in Germany.
 
 1.	Python and LabVIEW for laboratory equipment automatization, sensor data gathering, post-processing and visualization, and time-series analysis. 
@@ -20,11 +21,59 @@ TU Berlin is ranked as the 4th best technical university in Germany.
 4.	3D modeling and 3D printing for laboratory purposes, making courses for students.
 
 ● Korea Institute of Science and Technology — Research Assistant, M.Sc. (2016 – 2017)
+
 In 2019, KIST ranked as the 13th most innovative research institution in the world [link].
 
 1.	Using Arduino, C++, and Python to process sensor signals.
 2.	Establishing and adjusting equipment for the lab.
 3.	Research on graphene-based nanomaterials and electronics.
+
+## Other Education
+● Short practical courses from Deeplearning.ai (2023)
+
+LangChain Chat with Your Data, LangChain for LLM Application Development, Vector Databases: from Embeddings to Applications, Understanding and Applying Text Embeddings, Large Language Models with Semantic Search, Building Systems with the ChatGPT API, ChatGPT Prompt Engineering for Developers.
+
+● Generative AI with Large Language Models, Deeplearning.ai and AWS (2023)
+
+A 4-week theoretical and practical course about best practices on LLMs pipelines, fine-tuning techniques, prompt engineering, and many more.
+
+● Large Language Models: Application through Production, Databricks (2023)
+
+A 6-week practical-oriented course on LLMs pipelines, LangChain, fine-tuning, and prompt-engineering.
+
+● Tripleten — Data Science Professional Training (2021)
+
+A 9-month intensive boot camp (20h/week) that spans from SQL, API calls, data mining, and cleaning to deep learning with TensorFlow. Trained on 15+ educational real-life projects regarding tabular data, time-series forecasting, and natural language processing.
+
+● Practicum in mathematics and Python, online learning course (2015)
+
+Python for math, OOP, Pandas, NumPy, and visualization with Matplotlib, Seaborn, and Plotly.
+
+● Introduction to Python, Microsoft edX course (2015)
+
+● “Shag” private programming school, Ukraine (2011)
+
+C++, OOP, computer hardware, network structure, and protocols.
+
+## Classical Education
+● Ph.D. in Nanoelectronics, TU Berlin, Germany (2017 – 2022)
+
+TU Berlin is ranked as the 4th best technical university in Germany.
+
+● M.Sc. in Nanoelectronics, dual degree program between Korea & Ukraine (2017)
+
+Dual degree Master’s program between one of the most innovative research institutions in the world [link], and the best technical university in Ukraine: Korea Institute of Science and Technology & Kyiv Polytechnic Institute.            
+
+● Nanoelectronics Summer Internship, Brno University of Technology (2015)
+
+Brno University of Technology is ranked as the 2nd best technical university in the Czech Republic.
+
+● B.Sc. Nanoelectronics, Kyiv Polytechnic Institute, Ukraine (2015)
+
+The best technical university in Ukraine.
+
+## Hobby
+3D modeling and 3D printing of radio-controlled quadcopters and airplanes.
 
 
 
