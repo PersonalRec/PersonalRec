@@ -13,7 +13,9 @@ I am a responsible and passionate Data Scientist and a Ph.D. candidate in nanoel
 
 ● Technical University of Berlin — Research Scientist, Ph.D. candidate (2017 – 2022)
 
+
 TU Berlin is ranked as the 4th best technical university in Germany.
+
 
 1.	Python and LabVIEW for laboratory equipment automatization, sensor data gathering, post-processing and visualization, and time-series analysis. 
 2.	Research on novel nanomaterials for semiconductive sensors.
@@ -22,7 +24,9 @@ TU Berlin is ranked as the 4th best technical university in Germany.
 
 ● Korea Institute of Science and Technology — Research Assistant, M.Sc. (2016 – 2017)
 
+
 In 2019, KIST ranked as the 13th most innovative research institution in the world [link].
+
 
 1.	Using Arduino, C++, and Python to process sensor signals.
 2.	Establishing and adjusting equipment for the lab.
@@ -38,17 +42,18 @@ LangChain Chat with Your Data, LangChain for LLM Application Development, Vector
 ● Generative AI with Large Language Models, Deeplearning.ai and AWS (2023)
 
 A 4-week theoretical and practical course about best practices on LLMs pipelines, fine-tuning techniques, prompt engineering, and many more.
-\n
+
+
 
 ● Large Language Models: Application through Production, Databricks (2023)
 
 A 6-week practical-oriented course on LLMs pipelines, LangChain, fine-tuning, and prompt-engineering.
-\n
+
 
 ● Tripleten — Data Science Professional Training (2021)
 
 A 9-month intensive boot camp (20h/week) that spans from SQL, API calls, data mining, and cleaning to deep learning with TensorFlow. Trained on 15+ educational real-life projects regarding tabular data, time-series forecasting, and natural language processing.
-\n
+
 
 ● Practicum in mathematics and Python, online learning course (2015)
 
