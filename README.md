@@ -1,5 +1,3 @@
-# Alexander Hafer ![image](https://github.com/PersonalRec/PersonalRec/assets/45102782/fbbf31a0-a263-4432-a5a4-54d99aaaeb77)
-
 High-performing AI Engineer, specializing in custom LLM development and AI process automation applications. Proven expertise in training foundational models from scratch (GPT-2/3 architecture) and fine-tuning proprietary models (Gemini, OpenAI) on client's data. An LLM-hackathon winner and former nanoelectronics researcher in Germany and South Korea, I combine deep theoretical knowledge in signal processing with the practical ability to deploy scalable, automated AI solutions.
 
 ## Technical Skills
@@ -8,6 +6,15 @@ High-performing AI Engineer, specializing in custom LLM development and AI proce
 - **Visualization:** Seaborn, Matplotlib, Plotly, Highcharts
 - **Other:** git, SQL, Docker, Google Vertex AI, Azure
 - **Languages:** English (Fluent), German (B2)
+
+## Awards & Accomplishments
+● Trained from scratch an LLM that matches OpenAI's GPT-3 124M model in performance (2026)
+
+● One Data company-wide LLM hackathon winner (2023)
+
+● Ph.D. Scholarship at TU Berlin (2017)
+
+● Dual degree program scholarship between Ukraine and South Korea (2016 – 2017)
 
 ## Experience
 
@@ -33,8 +40,6 @@ High-performing AI Engineer, specializing in custom LLM development and AI proce
 
 ● **Technical University of Berlin** — Research Scientist, Ph.D. student (2017 – 2022)
 
-TU Berlin is ranked as the 4th best technical university in Germany.
-
 1. Python and LabVIEW for laboratory equipment automation, sensor data acquisition, post-processing, visualization, and time-series analysis.
 2. Research on novel nanomaterials for semiconductive sensors.
 3. Research on aluminum-graphene composites with enhanced properties.
@@ -42,51 +47,9 @@ TU Berlin is ranked as the 4th best technical university in Germany.
 
 ● **Korea Institute of Science and Technology** — Research Assistant, M.Sc. (2016 – 2017)
 
-In 2019, KIST ranked as the 13th most innovative research institution in the world [link].
-
 1. Used Arduino, C++, and Python for lab automation and sensor signal processing.
 2. Set up and calibrated laboratory equipment.
 3. Researched graphene-based nanomaterials and electronics for sensing applications.
-
-## Additional Education
-
-● **Stanford School of Engineering, CS336 Language Modeling from Scratch** (2026 - ongoing)
-
-Practical and theoretical course on LLM architectures, modern approaches, pretraining, GPU/TPU architectures, etc.
-
-● **Andrej Karpathy's course, Neural Networks Zero to Hero** (2025)
-
-Practical course on language modeling covering topics from simple bi-gram models, embeddings, and tokenizers to reproducing GPT-2/3 architecture from scratch.
-
-● **Neural networks and computer vision from Samsung** (2024)
-
-Practical and theoretical course on neural network architectures (LeNet, AlexNet, GoogleNet, ResNet, etc.) using PyTorch for computer vision applications.
-
-● **Short practical courses from Deeplearning.ai** (2023)
-
-LangChain Chat with Your Data, LangChain for LLM Application Development, Vector Databases: from Embeddings to Applications, Understanding and Applying Text Embeddings, Large Language Models with Semantic Search, Building Systems with the ChatGPT API, ChatGPT Prompt Engineering for Developers, etc.
-
-● **Generative AI with Large Language Models, Deeplearning.ai and AWS** (2023)
-
-A theoretical and practical course covering best practices for LLM pipelines, fine-tuning techniques, prompt engineering, and more.
-
-● **Large Language Models: Application through Production, Databricks** (2023)
-
-A hands-on course on LLM pipelines, LangChain, fine-tuning, and prompt engineering.
-
-● **Tripleten — Data Science Professional Training** (2021)
-
-A 9-month intensive bootcamp (20h/week) covering SQL, API calls, data mining, cleaning, and deep learning with TensorFlow. Completed 15+ real-life projects on tabular data, time-series forecasting, and NLP.
-
-● **Practicum in mathematics and Python, online learning course** (2015)
-
-Python for math, OOP, Pandas, NumPy, visualization with Matplotlib, Seaborn, and Plotly.
-
-● **Introduction to Python, Microsoft edX course** (2015)
-
-● **"Shag" private programming school, Ukraine** (2011)
-
-C++, OOP, computer hardware, network structure, and protocols.
 
 ## Classical Education
 ● Ph.D. in Nanoelectronics, TU Berlin, Germany (2017 – 2022)
@@ -97,14 +60,6 @@ C++, OOP, computer hardware, network structure, and protocols.
 
 ● B.Sc. Nanoelectronics, Kyiv Polytechnic Institute, Ukraine (2011 – 2015)
 
-## Awards & Accomplishments
-● Trained from scratch an LLM that matches OpenAI's GPT-3 124M model in performance (2026)
-
-● One Data company-wide LLM hackathon winner (2023)
-
-● Ph.D. Scholarship at TU Berlin (2017)
-
-● Dual degree program scholarship between Ukraine and South Korea (2016 – 2017)
 
 ## Hobby
 3D modeling and 3D printing of radio-controlled drones and airplanes.
